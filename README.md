@@ -2,9 +2,9 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+Wahyu+Here!" alt="Typing SVG" /><br>
-  <img src="./assets/code.gif" alt="code" width="30" align="center" />
+  <img src="./assets/cdwhite.gif" alt="code" width="30" align="center" />
   Full-stack Developer ||
-  <img src="./assets/design.gif" alt="code" width="30" align="center" /> 
+  <img src="./assets/whitestr.gif" alt="code" width="30" align="center" /> 
   UI/UX Designer
 </p>
 
