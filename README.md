@@ -5,8 +5,10 @@
   <img src="./assets/cdwhite.gif" alt="code" width="30" align="center" />
   Full-stack Developer ||
   <img src="./assets/whitestr.gif" alt="code" width="30" align="center" /> 
-  UI/UX Designer
+  UI/UX Designer || 
+   <img src="./assets/analyst.gif" alt="code" width="30" align="center" />Data Analyst 
 </p>
+
 
 ## Tech Stack
 
@@ -44,3 +46,9 @@
 </p>
 
 
+##  Projects Archive
+
+| Preview | Deskripsi |
+|---|---|
+| <img src="./assets/project1.png" width="250"/> | **[Nama Project 1](LINK_REPOSITORY_DI_SINI)**<br>Deskripsi singkat project, dibuat pakai apa, fungsinya buat apa.<br><br>`React` `Node.js` `MongoDB` |
+| <img src="./assets/project2.png" width="250"/> | **[Nama Project 2](LINK_REPOSITORY_DI_SINI)**<br>Deskripsi singkat project, dibuat pakai apa, fungsinya buat apa.<br><br>`Next.js` `Tailwind` `Supabase` |
