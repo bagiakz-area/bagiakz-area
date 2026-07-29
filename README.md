@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-### Programing Languages
+### 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
-###  Framework & Libraries
+###  𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -31,14 +31,14 @@
 </p>
 
 
-### Database
+### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
 <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-### Design
+### 𝙳𝚎𝚜𝚒𝚐𝚗
 
 <p>
 <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
@@ -46,9 +46,11 @@
 </p>
 
 
-##  Projects Archive
+## Currenly Projects
 
-| Preview | Deskripsi |
-|---|---|
-| <img src="./assets/project1.png" width="250"/> | **[Nama Project 1](LINK_REPOSITORY_DI_SINI)**<br>Deskripsi singkat project, dibuat pakai apa, fungsinya buat apa.<br><br>`React` `Node.js` `MongoDB` |
-| <img src="./assets/project2.png" width="250"/> | **[Nama Project 2](LINK_REPOSITORY_DI_SINI)**<br>Deskripsi singkat project, dibuat pakai apa, fungsinya buat apa.<br><br>`Next.js` `Tailwind` `Supabase` |
+
+>### [ᴘᴋʟ ᴊᴏᴜʀɴᴀʟ – ɪɴᴛᴇʀɴꜱʜɪᴘ ʟᴏɢʙᴏᴏᴋ](https://bagiakz-area.github.io/JurnalKu/)
+
+𝙰𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚓𝚘𝚞𝚛𝚗𝚊𝚕 (𝙿𝙺𝙻) 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚕𝚘𝚐𝚒𝚗 𝚊𝚗𝚍 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜. 𝙾𝚗𝚌𝚎 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚎𝚍, 𝚞𝚜𝚎𝚛𝚜 𝚌𝚊𝚗 𝚕𝚘𝚐 𝚝𝚑𝚎𝚒𝚛 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜, 𝚠𝚒𝚝𝚑 𝚊𝚕𝚕 𝚍𝚊𝚝𝚊 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚜𝚊𝚟𝚎𝚍 𝚊𝚗𝚍 𝚊𝚌𝚌𝚎𝚜𝚜𝚒𝚋𝚕𝚎 𝚊𝚗𝚢𝚝𝚒𝚖𝚎.
+
+**ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ :** `HMTL` `CSS` `JAVASCRIPT` `SUPABASE`
