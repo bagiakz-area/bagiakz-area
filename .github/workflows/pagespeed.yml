@@ -26,7 +26,7 @@ jobs:
           temporaryPublicStorage: false
 
       - name: Generate badge SVG
-        run: node scripts/generate-pagespeed-badge.js .lighthouseci "${{ vars.SITE_URL }}"assets/pagespeed.svg
+        run: node scripts/generate-pagespeed-badge.js .lighthouseci "${{ vars.SITE_URL }}" assets/pagespeed.svg
 
       - name: Commit changes
         run: |
