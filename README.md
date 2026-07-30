@@ -77,11 +77,7 @@
 
 ## Portofolio Website 
 
-<div align="center">
-  <a href="https://wahyu-bagia.netlify.app/">
-    <img src="./pagespeed.svg" alt="PageSpeed Insights" width="600">
-  </a>
-</div>
+
 
 ## 
 
