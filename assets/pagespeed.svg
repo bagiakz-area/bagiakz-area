@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 250" width="630" height="250">
   <rect width="630" height="250" rx="12" fill="#0d1117" />
   <text x="30" y="45" font-size="22" font-weight="600" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif">🚀 PageSpeed Insights</text>
-  <text x="30" y="72" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">🔗 https://wahyu-bagia.netlify.app/assets/pagespeed.svg</text>
+  <text x="30" y="72" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">🔗 https://wahyu-bagia.netlify.app</text>
   
     <g transform="translate(90, 150)">
       <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
