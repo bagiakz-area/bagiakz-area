@@ -63,7 +63,7 @@
 </h1>
 
   <p align="center">
-  <a href="mailto:ngurahwahyubagia@gmail.com?subject=Interested20%in20%your20%work&body=Hi20%Wahyu%20, are%20you%20avaliable%20to20%work..?"><img src="assets/gmail.svg" width="270" alt="GMAIL" /></a>
+  <a href="mailto:ngurahwahyubagia@gmail.com?subject=Interested in your work&body=Hi Wahyu%20, are%20you%20avaliable%20to20%work..?"><img src="assets/gmail.svg" width="270" alt="GMAIL" /></a>
   <a href="https://www.hackster.io/yugiakz"><img src="assets/hackster.svg" width="270" alt="HACKSTER" /></a>
   <a href="https://www.linkedin.com/in/i-gusti-ngurah-kadek-wahyu-bagia-a0a53141b/"><img src="assets/linkedin.svg" width="270" alt="LINKEDIN" /></a
   </p>
