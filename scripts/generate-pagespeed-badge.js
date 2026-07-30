@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 
 const RESULTS_DIR = process.argv[2] || '.lighthouseci'
-const SITE_URL = process.argv[3] || process.env.SITE_URL || 'https://your-site.com'
+const SITE_URL = process.argv[3] || process.env.SITE_URL || 'https://wahyu-bagia.netlify.app/'
 const OUTPUT_PATH = process.argv[4] || 'assets/pagespeed.svg'
 
 function findLatestReport(dir) {
