@@ -75,4 +75,4 @@
   <img src="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/activity-graph-output/activity-graph.svg?theme=transparent&bg_color=black&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
 
-![ocean](assets/ocean.svg)
+![ocean](assets/oceann.svg)
