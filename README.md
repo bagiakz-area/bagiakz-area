@@ -56,3 +56,14 @@
 
 **ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ :** `HMTL` `CSS` `JAVASCRIPT` `SUPABASE`
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" align="center" /> Let's Work Together
+
+<h1 align="center">
+  ＣＯＮＮＥＣＴ
+</h1>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/i-gusti-ngurah-kadek-wahyu-bagia-a0a53141b/"><img src="assets/gmail.svg" width="270" alt="GMAIL" /></a>
+  <a href="https://www.hackster.io/yugiakz"><img src="assets/hackster.svg" width="270" alt="HACKSTER" /></a>
+  <a href="https://www.linkedin.com/in/i-gusti-ngurah-kadek-wahyu-bagia-a0a53141b/"><img src="assets/linkedin.svg" width="270" alt="LINKEDIN" /></a
+  </p>
