@@ -5,11 +5,11 @@
   
     <g transform="translate(90, 150)">
       <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
-      <circle r="40" cx="0" cy="0" fill="none" stroke="#ffa400" stroke-width="6"
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#ff4e42" stroke-width="6"
         stroke-linecap="round"
-        stroke-dasharray="125.66370614359172 251.32741228718345"
+        stroke-dasharray="92.99114254625788 251.32741228718345"
         transform="rotate(-90)" />
-      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffa400" font-family="Segoe UI, Helvetica, Arial, sans-serif">50</text>
+      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#ff4e42" font-family="Segoe UI, Helvetica, Arial, sans-serif">37</text>
       <text x="0" y="68" text-anchor="middle" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">Performance</text>
     </g>
     <g transform="translate(240, 150)">
