@@ -75,16 +75,4 @@
   <img src="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/activity-graph-output/activity-graph.svg?theme=transparent&bg_color=black&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
 
-## Portofolio Website 
-
-
-
-## 
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
+![ocean](assets/ocean.svg)
