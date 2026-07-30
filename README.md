@@ -1,4 +1,4 @@
-# <img src="./assets/dimentor.gif" alt="Wahyu Bagia Banner" width="100%" height="150"/><img src="./assets/header.svg" alt="Wahyu Bagia Banner" width="100%" />
+# <img src="./assets/dementor.gif" alt="Wahyu Bagia Banner" width="100%" height="150"/><img src="./assets/header.svg" alt="Wahyu Bagia Banner" width="100%" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+Wahyu+Here!" alt="Typing SVG" /><br>
