@@ -22,6 +22,7 @@ jobs:
         with:
           urls: |
             ${{ vars.SITE_URL }}
+          configPath: ./lighthouserc.json
           uploadArtifacts: false
           temporaryPublicStorage: false
 

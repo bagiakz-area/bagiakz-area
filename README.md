@@ -10,7 +10,6 @@
    ᴄʜᴇᴄᴋ ᴍʏ ᴘᴏʀᴛᴏꜰᴏʟɪᴏ <a href="https://wahyu-bagia.netlify.app/">ʜᴇʀᴇ</a>
 </p>
 
-
 ## Tech Stack
 
 ### 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
@@ -22,7 +21,7 @@
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
-###  𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
+### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </p>
-
 
 ### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎
 
@@ -46,11 +44,9 @@
 <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canvas&logoColor=00C4CC" alt="Canva" />
 </p>
 
-
 ## Currenly Projects
 
-
->### [ᴘᴋʟ ᴊᴏᴜʀɴᴀʟ – ɪɴᴛᴇʀɴꜱʜɪᴘ ʟᴏɢʙᴏᴏᴋ](https://bagiakz-area.github.io/JurnalKu/)
+> ### [ᴘᴋʟ ᴊᴏᴜʀɴᴀʟ – ɪɴᴛᴇʀɴꜱʜɪᴘ ʟᴏɢʙᴏᴏᴋ](https://bagiakz-area.github.io/JurnalKu/)
 
 𝙰𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚓𝚘𝚞𝚛𝚗𝚊𝚕 (𝙿𝙺𝙻) 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚕𝚘𝚐𝚒𝚗 𝚊𝚗𝚍 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜. 𝙾𝚗𝚌𝚎 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚎𝚍, 𝚞𝚜𝚎𝚛𝚜 𝚌𝚊𝚗 𝚕𝚘𝚐 𝚝𝚑𝚎𝚒𝚛 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜, 𝚠𝚒𝚝𝚑 𝚊𝚕𝚕 𝚍𝚊𝚝𝚊 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚜𝚊𝚟𝚎𝚍 𝚊𝚗𝚍 𝚊𝚌𝚌𝚎𝚜𝚜𝚒𝚋𝚕𝚎 𝚊𝚗𝚢𝚝𝚒𝚖𝚎.
 
@@ -68,7 +64,7 @@
   <a href="https://www.linkedin.com/in/i-gusti-ngurah-kadek-wahyu-bagia-a0a53141b/"><img src="assets/linkedin.svg" width="270" alt="LINKEDIN" /></a
   </p>
 
-  ## Github Statistic
+## Github Statistic
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=bagiakz-area&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
@@ -77,5 +73,11 @@
 <p align="center">
   <img src="assets/pagespeed.svg" alt="PageSpeed Insights" />
 </p>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 ![ocean](assets/oceann.svg)
