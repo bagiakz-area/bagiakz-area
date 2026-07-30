@@ -1,0 +1,37 @@
+name: Update PageSpeed Badge
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1'
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Audit with Lighthouse
+        uses: treosh/lighthouse-ci-action@v12
+        with:
+          urls: |
+            ${{ vars.SITE_URL }}
+          uploadArtifacts: false
+          temporaryPublicStorage: false
+
+      - name: Generate badge SVG
+        run: node scripts/generate-pagespeed-badge.js .lighthouseci "${{ vars.SITE_URL }}" assets/pagespeed.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/pagespeed.svg
+          git diff --staged --quiet || git commit -m "chore: update PageSpeed badge"
+          git push

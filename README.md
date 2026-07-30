@@ -74,5 +74,8 @@
   <img src="https://streak-stats.demolab.com?user=bagiakz-area&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/bagiakz-area/bagiakz-area/activity-graph-output/activity-graph.svg?theme=transparent&bg_color=black&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
+<p align="center">
+  <img src="assets/pagespeed.svg" alt="PageSpeed Insights" />
+</p>
 
 ![ocean](assets/oceann.svg)
