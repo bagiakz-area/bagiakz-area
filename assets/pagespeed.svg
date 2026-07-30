@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 250" width="630" height="250">
+  <rect width="630" height="250" rx="12" fill="#0d1117" />
+  <text x="30" y="45" font-size="22" font-weight="600" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif">🚀 PageSpeed Insights</text>
+  <text x="30" y="72" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">🔗 https://wahyu-bagia.netlify.app/assets/pagespeed.svg</text>
+  
+    <g transform="translate(90, 150)">
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#ffa400" stroke-width="6"
+        stroke-linecap="round"
+        stroke-dasharray="125.66370614359172 251.32741228718345"
+        transform="rotate(-90)" />
+      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffa400" font-family="Segoe UI, Helvetica, Arial, sans-serif">50</text>
+      <text x="0" y="68" text-anchor="middle" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">Performance</text>
+    </g>
+    <g transform="translate(240, 150)">
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#0cce6a" stroke-width="6"
+        stroke-linecap="round"
+        stroke-dasharray="226.1946710584651 251.32741228718345"
+        transform="rotate(-90)" />
+      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#0cce6a" font-family="Segoe UI, Helvetica, Arial, sans-serif">90</text>
+      <text x="0" y="68" text-anchor="middle" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">Accessibility</text>
+    </g>
+    <g transform="translate(390, 150)">
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#0cce6a" stroke-width="6"
+        stroke-linecap="round"
+        stroke-dasharray="251.32741228718345 251.32741228718345"
+        transform="rotate(-90)" />
+      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#0cce6a" font-family="Segoe UI, Helvetica, Arial, sans-serif">100</text>
+      <text x="0" y="68" text-anchor="middle" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">Best Practices</text>
+    </g>
+    <g transform="translate(540, 150)">
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#2b3038" stroke-width="6" />
+      <circle r="40" cx="0" cy="0" fill="none" stroke="#0cce6a" stroke-width="6"
+        stroke-linecap="round"
+        stroke-dasharray="228.70794518133695 251.32741228718345"
+        transform="rotate(-90)" />
+      <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#0cce6a" font-family="Segoe UI, Helvetica, Arial, sans-serif">91</text>
+      <text x="0" y="68" text-anchor="middle" font-size="14" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif">SEO</text>
+    </g>
+</svg>
