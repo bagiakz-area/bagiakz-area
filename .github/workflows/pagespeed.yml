@@ -1,0 +1,17 @@
+name: Update PageSpeed Insights
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Berjalan otomatis setiap hari Minggu
+  workflow_dispatch: # Memungkinkan Anda menjalankan action ini secara manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate PageSpeed Insights
+        uses: ankurparihar/readme-pagespeed-insights@v1
+        with:
+          # Ganti dengan URL website Anda
+          URL: "https://wahyu-bagia.netlify.app/"
