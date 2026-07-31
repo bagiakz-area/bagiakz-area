@@ -41,7 +41,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canvas&logoColor=00C4CC" alt="Canva" />
+<img src="https://img.shields.io/badge/FRAMER-111827?style=for-the-badge&logo=framer&logoColor=00C4CC" alt="Canva" />
 </p>
 
 ## Currenly Projects
