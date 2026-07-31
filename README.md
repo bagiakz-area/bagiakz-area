@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/FRAMER-111827?style=for-the-badge&logo=framer&logoColor=00C4CC" alt="Canva" />
 </p>
 
-## Currenly Projects
+## Currently Projects
 
 > ### [ᴘᴋʟ ᴊᴏᴜʀɴᴀʟ – ɪɴᴛᴇʀɴꜱʜɪᴘ ʟᴏɢʙᴏᴏᴋ](https://bagiakz-area.github.io/JurnalKu/)
 
