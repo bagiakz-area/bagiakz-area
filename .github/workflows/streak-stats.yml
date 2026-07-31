@@ -1,0 +1,24 @@
+name: Generate streak stats
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=bagiakz-area&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5
+          path: dist/streak-stats.svg
+
+      - name: Push to streak-stats-output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: streak-stats-output
+          force_orphan: true
