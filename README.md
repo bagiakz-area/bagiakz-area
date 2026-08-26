@@ -8,7 +8,7 @@
   <img src="./assets/whitestr.gif" alt="code" width="30" align="center" /> 
   UI/UX Designer || 
    <img src="./assets/analyst.gif" alt="code" width="30" align="center" />Data Analyst <br>
-   ᴄʜᴇᴄᴋ ᴍʏ ᴘᴏʀᴛᴏꜰᴏʟɪᴏ <a href="[https://wahyu-bagia.netlify.app/](https://wahyubagia.my.id/)">ʜᴇʀᴇ</a>
+   ᴄʜᴇᴄᴋ ᴍʏ ᴘᴏʀᴛᴏꜰᴏʟɪᴏ <a href="https://wahyubagia.my.id/">ʜᴇʀᴇ</a>
 </p>
 
 ## Tech Stack
